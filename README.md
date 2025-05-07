@@ -16,10 +16,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
 Sprint 1|	16/04/2025	|concluído|  [Ver Relatório](https://github.com/user-attachments/files/17400247/EAGLELOG1.pdf)
-Sprint 2|	07/05/2024|	Em processo | [Ver Relatório](https://github.com/user-attachments/files/17403337/EAGLELOG1.docx)
-Sprint 3|	04/11/2024	|Em processo|	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
-Sprint 4|	25/11/2024|	Em processo	|  [Ver Relatório]()
-Feira de Soluções| 12/12/2024|	concluído| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+Sprint 2|	07/05/2025|	Em processo | [Ver Relatório](https://github.com/user-attachments/files/17403337/EAGLELOG1.docx)
+Sprint 3|	28/05/2025	|Em processo|	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+Feira de Soluções| 17/06/2025|	concluído| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 # Equipe 
 ![image](https://github.com/user-attachments/assets/8c8609a6-c694-4858-aa34-62ad80fdd21d)
 # Objetivo do Projeto 
