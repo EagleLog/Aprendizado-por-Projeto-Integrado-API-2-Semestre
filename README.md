@@ -1,4 +1,4 @@
-# Aprendizado-por-Projeto-Integrado-API-2-Semestre
+![image](https://github.com/user-attachments/assets/736bfb31-0002-4fab-8cd9-bd6101c4e233)# Aprendizado-por-Projeto-Integrado-API-2-Semestre
 Este projeto tem como objetivo desenvolver uma API e um dashboard de BI interativo para análise das exportações de cargas do Brasil. A partir de dados mensais, é possível visualizar os principais destinos, produtos exportados e gerar insights estratégicos. 
 # Aprendizado por Projeto Integrado (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -41,6 +41,16 @@ apresentação do BI.
   ### Previsão de demanda
   ![image](https://github.com/user-attachments/assets/8aee9057-e7ac-48e8-ae44-5b71558675a4)
 
+   ## Sprint 2 - Power BI
+  ### Cargas por Kg
+   ![image](https://github.com/user-attachments/assets/eb8d242d-21d5-4e91-aaa3-bdd2428f5881)
+
+  ### Carga / Modal
+  ![image](https://github.com/user-attachments/assets/69de53a0-6ce5-45cf-bf10-a075c5d0db1b)
+  
+  ### Previsão de demanda 
+  ![image](https://github.com/user-attachments/assets/6a55bb68-75df-4748-899e-e9a1845128d1)
+  
 # Tenologias Utilizadas 
 ## Produto 
 - Power BI
