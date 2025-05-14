@@ -31,15 +31,18 @@ informações relevantes — que serão detalhadas na
 apresentação do BI.
 
   # Funcionalidades e registros das sprints
-  ## Sprint 1 - Power BI
+  ## Sprint 2 - Power BI
   ### Cargas por Kg
-  ![image](https://github.com/user-attachments/assets/a11d8e6d-6fe3-4be7-9612-f762a5431ac7)
+  ![image](https://github.com/user-attachments/assets/3cc903cb-7a44-44cd-862a-c58fc4ff5022)
+
  
   ### Carga / Modal
-  ![image](https://github.com/user-attachments/assets/2e0a459c-734a-4403-a24f-bbd2f8bb0349)
+![image](https://github.com/user-attachments/assets/4d573b53-066d-4ec9-b61b-868b16193718)
+
 
   ### Previsão de demanda
-  ![image](https://github.com/user-attachments/assets/8aee9057-e7ac-48e8-ae44-5b71558675a4)
+![image](https://github.com/user-attachments/assets/1a4a6b63-4908-42e7-b9d8-1e0c4bd4d1e1)
+
 
 # Tenologias Utilizadas 
 ## Produto 
