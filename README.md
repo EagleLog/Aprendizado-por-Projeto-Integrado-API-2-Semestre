@@ -41,6 +41,8 @@ apresentação do BI.
   ### Previsão de demanda
   ![image](https://github.com/user-attachments/assets/8aee9057-e7ac-48e8-ae44-5b71558675a4)
 
+  ## Sprint 2 - Power BI
+  
 # Tenologias Utilizadas 
 ## Produto 
 - Power BI
