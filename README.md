@@ -56,6 +56,8 @@ apresentação do BI.
   ### Previsão de demanda
 ![image](https://github.com/user-attachments/assets/1a4a6b63-4908-42e7-b9d8-1e0c4bd4d1e1)
 
+ ## Sprint 3 - Power BI
+
 
 # Tenologias Utilizadas 
 ## Produto 
