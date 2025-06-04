@@ -57,7 +57,11 @@ apresentação do BI.
 ![image](https://github.com/user-attachments/assets/1a4a6b63-4908-42e7-b9d8-1e0c4bd4d1e1)
 
  ## Sprint 3 - Power BI
+[ Visualize aqui](https://app.powerbi.com/viewr=eyJrIjoiYmNiYjhkYTUtZjYyMC00MjEzLWJhNWUtMDNhZTY3YzA1YTYzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
+https://github.com/user-attachments/assets/dd5c38a6-5c65-4d06-a06f-5be3c4d5f429
+
+https://github.com/user-attachments/assets/0681ed2c-4de4-4b81-92b0-596d7153a641
 
 # Tenologias Utilizadas 
 ## Produto 
