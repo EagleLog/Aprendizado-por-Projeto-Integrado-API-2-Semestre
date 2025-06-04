@@ -66,6 +66,8 @@ https://github.com/user-attachments/assets/0681ed2c-4de4-4b81-92b0-596d7153a641
 # Tenologias Utilizadas 
 ## Produto 
 - Power BI
+- SQL
+- Phyton
 ## Tecnologias Específicas/Apoio
 - GitHub
 - Jira Sotware
