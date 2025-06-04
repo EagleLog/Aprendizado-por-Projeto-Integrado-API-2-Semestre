@@ -44,7 +44,7 @@ apresentação do BI.
 
   # Funcionalidades e registros das sprints
   ## Sprint 2 - Power BI
-[Visualise aqui] (https://app.powerbi.com/view?r=eyJrIjoiMWVkYTQ5NzYtN2FhNy00MzYzLTkwZGUtNmMxNGEzNTU0NjZlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+[Visualise aqui](https://app.powerbi.com/view?r=eyJrIjoiMWVkYTQ5NzYtN2FhNy00MzYzLTkwZGUtNmMxNGEzNTU0NjZlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
   ### Cargas por Kg
   ![image](https://github.com/user-attachments/assets/3cc903cb-7a44-44cd-862a-c58fc4ff5022)
 
