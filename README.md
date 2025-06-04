@@ -16,8 +16,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
 Sprint 1|	16/04/2025	|concluído|  [Ver Relatório](https://github.com/user-attachments/files/17400247/EAGLELOG1.pdf)
-Sprint 2|	07/05/2025|	Em processo | [Ver Relatório](https://github.com/user-attachments/files/17403337/EAGLELOG1.docx)
-Sprint 3|	28/05/2025	|Em processo|	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+Sprint 2|	07/05/2025|	concluído | [Ver Relatório](https://github.com/user-attachments/files/17403337/EAGLELOG1.docx)
+Sprint 3|	04/06/2025	|concluído|	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Feira de Soluções| 17/06/2025|	concluído| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 # Equipe 
 ![image](https://github.com/user-attachments/assets/8c8609a6-c694-4858-aa34-62ad80fdd21d)
@@ -29,6 +29,18 @@ permitem identificar os principais compradores do
 país, as cargas mais exportadas, entre outras
 informações relevantes — que serão detalhadas na
 apresentação do BI.
+
+# User Story 
+ ** Rank | **Prioridade |**Estimativa |**User story |	**Sprint |**Requisito do parceiro
+:--------- | :--------- | :--------- | :--------- |:--------- | :--------- |
+1| Alta|8 |  Como analista, quero coletar e tratar os dados para uma análise mais eficiente das exportações de cargas do Brasil entre 2022 e 2024. | 1 | 1
+2| Alta|8| Como analista, quero, em um primeiro momento, um protótipo do Bl com filtros básicos (Via, URF, estados) para proporcionar uma pré-visualização mais clara do produto final. | 1 | 2
+3|Baixa|5|Como analista, necessito de uma pré-visualização para possibilitar a análise da dinâmica de exportação, incluindo trajetos, movimentações entre estados e vias.| 1 | 3
+4| Média|6| Como analista, desejo identificar as vias mais movimentadas na exportação para otimizar a definição de rotas.| 2 | 3
+5| Média|6| Como analista, desejo analisar quais países apresentam maior movimentação na exportação para avaliar sua demanda de forma estratégica. | 2 | 3
+6| Alta|8| Como analista, quero mapear as URFs com maior movimentação na exportação para uma análise estratégica das suas 10 áreas de influência.| 2 | 3
+7| Baixa|5| Como analista, busco um dashboard interativo no Power Bl com design dinamico que permita uma visualização otimizada dos dados.| 2 | 3
+8| Alta|8| Como analista, busco uma análise estratégica das exportações destinadas a outros países para identificar padrões e oportunidades.| 3 | 2
 
   # Funcionalidades e registros das sprints
   ## Sprint 2 - Power BI
